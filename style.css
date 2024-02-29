@@ -1,0 +1,8 @@
+
+html {
+    cursor: url(assets/kolhiresized.png), auto;
+    background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/12523.jpg');
+    background-repeat: no-repeat;   
+    background-size: cover;
+    filter: brightness(50%);
+}
